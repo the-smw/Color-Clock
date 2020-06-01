@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 30%;
+  font-family: 'Amatic SC', cursive;
+  font-size: 16rem;
+  margin-top: -8rem;
+}
