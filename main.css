@@ -10,9 +10,21 @@ html, body {
 #clock {
   text-align: center;
   position: relative;
-  top: 30%;
-  font-family: 'Amatic SC', cursive;
+  top: 40%;
+  font-family: 'Amatic SC', cursive, serif;
   font-size: 16rem;
   color: white;
   margin-top: -8rem;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  top: 5%;
+  padding: 1rem;
+  letter-spacing: 0.03rem;
+  line-height: 0.3;
+  color: white;
+  font-family: 'Amatic SC', cursive, serif;
+  font-size: 4rem;
 }
